@@ -24,5 +24,6 @@ const resultElement = document.querySelector(".js-result");
 
 function displayResult(resultText) {
   resultElement.innerText = resultText;
-  console.log(resultText);
+  console.log(`resultText: ${resultText}`);
+  // const resultDiv = document.querySelector(".result-container");
 }

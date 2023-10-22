@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(20, 33, 61);
+  color: white;
+}
+.inputs-container {
+  display: flex;
+  flex-wrap: nowrap;
+  column-gap: 10px;
+}
+.copy {
+  cursor: pointer;
+}
+button {
+  background-color: rgb(252, 163, 17);
+  border: none;
+}
+input {
+  background-color: rgb(229, 229, 229);
+}
+.result-container {
+  width: 300px;
+}
+.result {
+  font-weight: 600;
+  display: block;
+  overflow-wrap: break-word;
+}

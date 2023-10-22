@@ -1,7 +1,7 @@
 {
   "name": "Base64 encode & decoder",
   "description": "Base64 encode & decoder made by Jakov",
-  "version": "0.01",
+  "version": "0.20",
   "manifest_version": 3,
   "action": {
     "default_popup": "main.html",

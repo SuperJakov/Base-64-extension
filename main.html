@@ -4,12 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Base64 encoder & decoder</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <input placeholder="Enter base64" class="js-base64-input" type="text" />
-    <button class="js-encode-button">Encode</button>
-    <button class="js-decode-button">Decode</button>
-    <p class="js-result"></p>
+    <div class="inputs-container">
+      <input
+        placeholder="Type here..."
+        class="js-base64-input base64-input"
+        type="text"
+      />
+      <button class="js-encode-button">Encode</button>
+      <button class="js-decode-button">Decode</button>
+    </div>
+    <div class="result-container"><p class="js-result result"></p>
+    </div>
+
     <script src="algorithm.js"></script>
     <script src="main.js"></script>
   </body>
