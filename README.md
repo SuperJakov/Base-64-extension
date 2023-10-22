@@ -3,4 +3,4 @@
 
 Made by SuperJakov
 
-Leave a star if you like it!
+If you like it leave a ⭐
