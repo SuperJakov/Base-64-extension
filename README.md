@@ -1,5 +1,5 @@
 # Base-64-extension
-# Version 0.01 (non CSS)
+# Version 0.20
 
 Made by SuperJakov
 
