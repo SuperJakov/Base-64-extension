@@ -1,6 +1,7 @@
 body {
   background-color: rgb(20, 33, 61);
   color: white;
+  font-family: Roboto,Arial,sans-serif;
 }
 .inputs-container {
   display: flex;
@@ -13,9 +14,11 @@ body {
 button {
   background-color: rgb(252, 163, 17);
   border: none;
+  font-family: Roboto,Arial,sans-serif;
 }
 input {
   background-color: rgb(229, 229, 229);
+  font-family: Roboto,Arial,sans-serif;
 }
 .result-container {
   width: 300px;
