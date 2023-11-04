@@ -7,10 +7,8 @@ If you like it leave a ⭐
 
 # How to download
 
-1. Download this repository
+1. Download zip from this repository
 
-2. Follow these steps: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
+2. Extract zipped folder 
 
-# Future steps
-
-1. It's very hard to copy very large texts so I will make it easier with a click of a button!
+3. Follow these steps with unzipped folder: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
