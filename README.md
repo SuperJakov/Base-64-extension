@@ -3,8 +3,6 @@
 
 Made by SuperJakov
 
-If you like it leave a ⭐
-
 # How to download
 
 1. Download zip from this repository
@@ -12,3 +10,5 @@ If you like it leave a ⭐
 2. Extract zipped folder 
 
 3. Follow these steps with unzipped folder: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
+
+## If you like it leave a ⭐
